@@ -78,8 +78,7 @@ You can download the dataset used in this project from the following link:
 ---
 
 ## 📬 Contact
-Feel free to connect with me on [https://www.linkedin.com/in/
- anshika-tiwari-065289210] or reach out via email at [tanshika382@gmail.com] if you have any feedback or questions.
+Feel free to connect with me on https://www.linkedin.com/in/anshika-tiwari-065289210 or reach out via email at [tanshika382@gmail.com] if you have any feedback or questions.
 
 ---
 
